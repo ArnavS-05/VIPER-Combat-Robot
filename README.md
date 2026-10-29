@@ -15,7 +15,7 @@ Original filenames and file contents are preserved. Version order, fit, and prin
 
 ## Team collaboration
 
-1. The owner invites teammates through **Settings → Collaborators → Add people**. Accept the invitation using the intended GitHub account. Keep this repository private.
+1. The owner invites teammates through **Settings → Collaborators → Add people**. Accept the invitation using the intended GitHub account. This repository is public: anyone with the link can view and download the files. A collaborator invitation is required to push changes directly.
 2. Clone with GitHub Desktop, or use **Code → Download ZIP** for a snapshot. Open the native `.SLDPRT` files in a compatible SolidWorks version.
 3. Pull the latest changes before editing. Agree on who edits each part: SolidWorks files are binary and cannot be merged like text.
 4. Make changes on a branch, commit with a short description, and open a pull request for teammate review before merging into `main`.
